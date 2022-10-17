@@ -1,2 +1,2 @@
-# DotShareIt-i3-config
+# DotShareIt
 Fichero de configuraciòn i3wm
