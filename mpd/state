@@ -1,0 +1,30 @@
+sw_volume: 64
+audio_device_state:1:pulseaudio
+audio_device_state:1:FIFO
+audio_device_state:1:My HTTP Stream
+state: stop
+current: 4
+random: 0
+repeat: 1
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:KEANE/Civil Twilight Letters From The Sky.mp3
+1:KEANE/Keane Bedshaped Official Music Video.mp3
+2:KEANE/Keane Everybodys Changing Alternate Version.mp3
+3:KEANE/Keane Everybodys Changing Official Music Video.mp3
+4:KEANE/Keane This Is The Last Time Alternate Version.mp3
+5:KEANE/Look After You The Fray.mp3
+6:KEANE/Mazzy Star Fade Into You Official Music Video.mp3
+7:KEANE/Never Say Never The Fray Letra en Español Hessa After.mp3
+8:KEANE/The Fray All at Once sub español.mp3
+9:KEANE/The Fray How to Save a Life Official Video.mp3
+10:KEANE/The Fray Over My Head Cable Car Video.mp3
+11:KEANE/The Fray Singing Low Sub Español e Ingles.mp3
+12:KEANE/The Fray Where The Story Ends español.mp3
+13:KEANE/The Fray You Found Me.mp3
+14:KEANE/y2mate.com - Benson Boone Beautiful Things Official Music Video.mp3
+playlist_end
